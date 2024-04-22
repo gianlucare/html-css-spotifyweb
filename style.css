@@ -32,7 +32,7 @@ h3{
 }
 
 .leftbar {
-    width: 300px;
+    width: 260px;
     background-color:black;
     display: flex;
     flex-direction: column;
@@ -103,7 +103,22 @@ h3{
     font-size: 20px;
 }
 
+.Download-app{
+    margin-left: 40px;
+    margin-top:15px;
+    margin-bottom:15px;
+    font-size: 0.9rem;
+}
 
+.download{
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid white;
+    padding-bottom: 0.5rem;
+}
+
+.user{
+    padding-top: 0.5rem;
+}
 
 #footer {
     height: 100px;
