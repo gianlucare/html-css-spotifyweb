@@ -113,7 +113,6 @@ h3{
 
 .music-artist {
     padding-top: 20px;
-    height: 100%;
     font-size: 12px;
     display: flex;
     flex-direction: row;
@@ -131,6 +130,37 @@ h3{
 .item-link{
     margin-right: 25px;
 }
+
+.title2{
+    margin-right: 80px;
+    margin-bottom:40px;
+}
+
+.album {
+    margin-right: 20px;
+    width: calc(100% / 6 - 20px);
+    text-align: center;
+}
+
+.album-flex {
+    margin-bottom: 100px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+.card-album {
+    position: relative;
+}
+.album img {
+    display: block;
+    margin-bottom: 10px;
+    max-width: 100%;
+}
+
+
+
+
+
 
 
 /**FOOTER**/
